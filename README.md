@@ -8,4 +8,4 @@ Through this, the study will look at the two staple crops in the region- Maize a
 
 ## 🌐 View the Interactive Tableau Dashboard
 
-[![View Dashboard](tableau_preview.png)](https://public.tableau.com/views/KaramojaFoodInsecurityAnalysis/Dashboard1)
+[![View Dashboard](tableau_preview.png)](https://public.tableau.com/views/KaramojaFoodYieldAnalysis/Dashboard1)
